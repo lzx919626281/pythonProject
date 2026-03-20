@@ -1,0 +1,35 @@
+# 数字人系统配置
+
+# 语音唤醒设置
+wake_word:
+  model_path: "models/wake_word_model.tflite"
+  sensitivity: 0.7
+  audio_threshold: 0.5
+
+# 语音识别设置
+speech_recognition:
+  language: "zh-CN"
+  timeout: 5
+  phrase_time_limit: 10
+
+# 视频设置
+video:
+  camera_index: 0
+  width: 640
+  height: 480
+  fps: 30
+
+# 自然语言处理设置
+nlp:
+  model_path: "models/nlp_model"
+  max_history: 10
+
+# 数据库设置
+database:
+  path: "data/conversation.db"
+
+# 系统设置
+system:
+  log_level: "INFO"
+  max_responses: 5
+  response_delay: 0.5

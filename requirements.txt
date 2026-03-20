@@ -1,0 +1,27 @@
+# 核心依赖
+numpy==1.26.4
+scipy==1.11.4
+
+# 语音处理
+speechrecognition==3.10.0
+pyaudio==0.2.14
+pyttsx3==2.90
+# webrtcvad==2.0.10 (暂时移除，需要C++编译环境)
+
+# 视频处理
+opencv-python==4.9.0.80
+
+# 自然语言处理
+nltk==3.8.1
+spacy==3.7.4
+
+# 机器学习
+tensorflow
+torch
+
+# 数据库
+# sqlite3 (Python标准库，无需安装)
+
+# 其他
+psutil==5.9.8
+pyyaml==6.0.1

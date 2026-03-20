@@ -1,0 +1,40 @@
+2026-03-20 17:19:36,470 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2026-03-20 17:19:36,471 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\91962\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-20 17:19:36,472 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\91962\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen\__init__.py'
+2026-03-20 17:19:36,474 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\91962\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-20 17:19:36,485 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-03-20 17:19:36,488 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-03-20 17:19:36,540 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2026-03-20 17:19:36,545 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-03-20 17:19:36,545 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-03-20 17:19:36,551 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2026-03-20 17:19:36,974 - DigitalHuman - INFO - 数字人系统初始化完成
+2026-03-20 17:19:36,975 - DigitalHuman - INFO - 数字人系统启动
+2026-03-20 17:19:40,456 - DigitalHuman - INFO - 等待唤醒词...
+2026-03-20 17:21:00,149 - DigitalHuman - INFO - 系统被用户中断
+2026-03-20 17:21:01,299 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\91962\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-20 17:21:01,300 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\91962\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-20 17:21:01,518 - DigitalHuman - INFO - 数字人系统初始化完成
+2026-03-20 17:21:01,519 - DigitalHuman - INFO - 数字人系统启动
+2026-03-20 17:21:04,616 - DigitalHuman - INFO - 等待唤醒词...
+2026-03-20 17:22:01,935 - DigitalHuman - INFO - 系统被用户中断
+2026-03-20 17:22:03,092 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\91962\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-20 17:22:03,092 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\91962\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-20 17:22:03,232 - DigitalHuman - INFO - 数字人系统初始化完成
+2026-03-20 17:22:03,304 - DigitalHuman - INFO - 数字人系统核心功能启动
+2026-03-20 17:22:06,423 - DigitalHuman - INFO - 等待唤醒词...
+2026-03-20 17:22:49,775 - DigitalHuman - INFO - 数字人系统已停止
+2026-03-20 17:22:50,686 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\91962\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-20 17:22:50,686 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\91962\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-20 17:22:50,829 - DigitalHuman - INFO - 数字人系统初始化完成
+2026-03-20 17:22:50,903 - DigitalHuman - INFO - 数字人系统核心功能启动
+2026-03-20 17:22:54,178 - DigitalHuman - INFO - 等待唤醒词...
+2026-03-20 17:24:14,635 - DigitalHuman - INFO - 检测到唤醒词
+2026-03-20 17:24:14,635 - DigitalHuman - INFO - 开始语音识别...
+2026-03-20 17:24:35,378 - DigitalHuman - INFO - 数字人系统已停止
+2026-03-20 17:24:36,147 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\91962\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-03-20 17:24:36,147 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\91962\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2026-03-20 17:24:36,318 - DigitalHuman - INFO - 数字人系统初始化完成
+2026-03-20 17:24:36,403 - DigitalHuman - INFO - 数字人系统核心功能启动
+2026-03-20 17:24:40,748 - DigitalHuman - INFO - 等待唤醒词...
+2026-03-20 17:24:44,142 - DigitalHuman - INFO - 数字人系统已停止
